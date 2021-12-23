@@ -1,0 +1,25 @@
+# Don't track content of these folders 
+/.ipynb_checkpoints
+/.idea
+/.vscode
+venv/
+__pycache__/
+/data.nosync
+/wandb
+
+# Compiled source #
+###################
+*.pth
+*.onnx
+*.sh
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.idea
+*.ipynb_checkpoints
+*.vscode
+*.venv
+.DS_Store
